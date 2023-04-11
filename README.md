@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou estudando Python
 - 💕 Participo do projeto Lampex - projeto de extensão IFES
 
-- 📫 Contato atravez do meu Gmail
+- 📫 Contato através do meu Gmail
 <div>
   <a href = "mailto:samueljob020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <!---
